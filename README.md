@@ -1,4 +1,4 @@
-# CS225 Final Project
+# Flight-Guidence
 ## TeamNetID: tinghan2-yf9-yuhanlu2-yiruiz2
 
 ## Overview
@@ -44,4 +44,4 @@ Thanks to the contribution of cs225, We used graph files, PNG files, and make fi
 
 ## Project Presentation
 Please watch the below video for more information regarding to the project. https://youtu.be/AOmcHzuRITg# Flight-Guidence
-# Flight-Guidence
+
